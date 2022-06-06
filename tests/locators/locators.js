@@ -1,0 +1,18 @@
+module.exports = {
+  "LOG_IN": require('./locator.nMdyucEF5mYaEny6.json'),
+  "[tabindex='1']": require('./locator.RIJfUzfqG29JDWpM.json'),
+  "[type='password']": require('./locator.hKleKqwIx2t6Uj7d.json'),
+  "[form='login']": require('./locator.YPDiFrVx2LUvuE2K.json'),
+  "HELLO,_JOHN": require('./locator.mMIkAiZYo9Rmy4Zs.json'),
+  "[class^='Hero__form-box'],_[class*=": require('./locator.MZXR9wwK5L5zrZxr.json'),
+  "OK": require('./locator.aD1CD0b2m612BtSa.json'),
+  "SELECT_DESTINATION": require('./locator.KzqvIyi6vgg28fwC.json'),
+  "[class^='Gallery__filters-box'],_[c": require('./locator.SASih4Byz1VseGFm.json'),
+  "Shenji": require('./locator.p8xHn2nIwAHFO4dp.json'),
+  "BOOK": require('./locator.fEgjtj3LKB9nZyVb.json'),
+  "mZLLrCJmmutUTjUV": require('./locator.mZLLrCJmmutUTjUV.json'),
+  "Vestibulum_quam_sapien,_varius_ut,_": require('./locator.YWrbmtCLp4cEtveY.json'),
+  "[maxlength='30']": require('./locator.wuyJXYmBc9oqHcNq.json'),
+  "aPKU2oIz47Oc3Hnx": require('./locator.aPKU2oIz47Oc3Hnx.json'),
+  "Name_0/30": require('./locator.SMJ85wXlw3KRwfzJ.json'),
+};
